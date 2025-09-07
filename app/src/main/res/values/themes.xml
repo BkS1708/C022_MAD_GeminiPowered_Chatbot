@@ -1,0 +1,8 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <style name="Theme.GeminiApiStarter" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- Light mode colors -->
+        <item name="colorPrimary">#FFA500</item>
+        <item name="colorSurface">@color/white</item>
+        <item name="android:textColorPrimary">@android:color/black</item>
+    </style>
+</resources>

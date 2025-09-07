@@ -1,0 +1,5 @@
+<resources>
+    <color name="userBubble">#2E7D32</color> <!-- darker green -->
+    <color name="aiBubble">#FFFFFF</color>   <!-- white -->
+    <color name="bubbleText">#FFFFFF</color>
+</resources>
